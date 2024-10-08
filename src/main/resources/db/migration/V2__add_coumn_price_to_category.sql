@@ -1,0 +1,1 @@
+alter table category add price double null;
